@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:audioplayers/audioplayers.dart';
 
+// pubspec.yaml must contain a dependency audioplayers 0.19.0
+// 2023
+
 void main() =>runApp(MyApp());
 
 class MyApp extends StatelessWidget {
